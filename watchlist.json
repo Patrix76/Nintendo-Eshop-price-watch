@@ -1,0 +1,53 @@
+{
+  "games": [
+    {
+      "name": "Tomodachi Life: Living the Dream",
+      "status": "owned",
+      "eu_nsuid": "70010000116664",
+      "na_nsuid": "70010000116663",
+      "target_eur": null,
+      "added": "2026-08-02",
+      "best_seen": {
+        "eur": 45.92,
+        "country": "NZ",
+        "local": "89.95 NZD",
+        "date": "2026-08-02"
+      },
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Tomodachi-Life-Living-the-Dream-2786386.html",
+      "owned_since": "2026-08-03",
+      "jp_nsuid": null
+    },
+    {
+      "name": "Donkey Kong Country Returns HD",
+      "status": "watching",
+      "eu_nsuid": "70010000084603",
+      "na_nsuid": "70010000084604",
+      "target_eur": null,
+      "added": "2026-08-02",
+      "best_seen": {
+        "eur": 45.71,
+        "country": "NZ",
+        "local": "89.95 NZD",
+        "date": "2026-08-06"
+      },
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Donkey-Kong-Country-Returns-HD-2590475.html",
+      "jp_nsuid": "70010000084602"
+    },
+    {
+      "name": "Minecraft",
+      "status": "watching",
+      "eu_nsuid": "70010000000963",
+      "na_nsuid": "70010000000964",
+      "target_eur": null,
+      "added": "2026-08-03",
+      "best_seen": {
+        "eur": 20.3,
+        "country": "NZ",
+        "local": "39.95 NZD",
+        "date": "2026-08-06"
+      },
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Minecraft-1386505.html",
+      "jp_nsuid": "70010000000965"
+    }
+  ]
+}
