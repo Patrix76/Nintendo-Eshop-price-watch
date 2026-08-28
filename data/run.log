@@ -254,3 +254,12 @@
 [2026-08-25 02:02:47] ERROR: could not load exchange rates
 [2026-08-25 08:03:28] checking 2 game(s)
 [2026-08-25 08:03:47] ERROR: could not load exchange rates
+[2026-08-28 02:02:59] checking 2 game(s)
+[2026-08-28 02:03:18] priced paypal (32 shops: NL BE DE FR ES IT PT AT IE FI GR LU SK SI EE LV LT MT CY HR BG RO HU PL CZ SE DK NO GB CH AU NZ)
+[2026-08-28 02:03:20] priced paypal_new (3 shops: US CA MX)
+[2026-08-28 02:03:21] priced giftcard (3 shops: ZA IL RU)
+[2026-08-28 02:03:23] priced giftcard (5 shops: AR BR CL CO PE)
+[2026-08-28 02:03:24] priced giftcard (1 shops: JP)
+[2026-08-28 02:03:24] Donkey Kong Country Returns HD -> 45.97 EUR in NZ
+[2026-08-28 02:03:24] Minecraft -> 20.42 EUR in NZ
+[2026-08-28 02:03:24] no new lows - staying quiet
