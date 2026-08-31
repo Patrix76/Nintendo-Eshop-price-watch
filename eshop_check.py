@@ -216,9 +216,12 @@ font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
 .wrap{max-width:1120px;margin:0 auto}
 h1{font-size:1.5rem;margin:0 0 .25rem}
 .sub{color:var(--dim);font-size:.875rem;margin-bottom:2rem}
-/* Cards sit side by side when there is room, and stack on a narrow window. */
-.games{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));
-gap:1.25rem;margin-bottom:1.5rem;align-items:start}
+/* Always 3 cards per row, sized to fill the width. A 4th+ game does not
+   wrap to a new row or squeeze the columns - the row scrolls sideways. */
+.games{display:grid;grid-auto-flow:column;
+grid-auto-columns:minmax(360px,calc((100% - 2*1.25rem)/3));
+gap:1.25rem;margin-bottom:1.5rem;align-items:start;overflow-x:auto;
+padding-bottom:.4rem}
 .game{background:var(--card);border:1px solid var(--line);border-radius:14px;
 padding:1.25rem;min-width:0}
 .game h2{font-size:1.125rem;margin:0 0 .3rem}
