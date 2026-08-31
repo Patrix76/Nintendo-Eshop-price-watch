@@ -48,6 +48,17 @@
       },
       "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Minecraft-1386505.html",
       "jp_nsuid": "70010000000965"
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "status": "watching",
+      "eu_nsuid": "70010000027620",
+      "na_nsuid": "70010000027619",
+      "jp_nsuid": null,
+      "target_eur": null,
+      "added": "2026-08-31",
+      "best_seen": null,
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Animal-Crossing-New-Horizons-1438623.html"
     }
   ]
 }
