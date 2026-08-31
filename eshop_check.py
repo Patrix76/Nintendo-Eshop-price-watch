@@ -217,11 +217,15 @@ font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
 h1{font-size:1.5rem;margin:0 0 .25rem}
 .sub{color:var(--dim);font-size:.875rem;margin-bottom:2rem}
 /* Cards sit side by side when there is room, and stack on a narrow window. */
-.games{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
+.games{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));
 gap:1.25rem;margin-bottom:1.5rem;align-items:start}
 .game{background:var(--card);border:1px solid var(--line);border-radius:14px;
 padding:1.25rem;min-width:0}
-.game h2{font-size:1.125rem;margin:0 0 1rem}
+.game h2{font-size:1.125rem;margin:0 0 .3rem}
+.info-link{display:inline-block;font-size:.75rem;font-weight:600;letter-spacing:.03em;
+color:var(--dim);text-decoration:none;border:1px solid var(--line);border-radius:5px;
+padding:.1rem .4rem;margin-bottom:.85rem}
+.info-link:hover{color:var(--fg);border-color:var(--dim)}
 .hero{display:flex;flex-wrap:wrap;align-items:baseline;gap:.6rem;margin-bottom:.4rem}
 .price{font-size:2.25rem;font-weight:650;letter-spacing:-.02em}
 .where{font-size:1.05rem;color:var(--dim)}
@@ -232,11 +236,14 @@ padding:.15rem .5rem;border-radius:6px;font-size:.8rem}
 details{margin-top:1rem}
 summary{cursor:pointer;color:var(--dim);font-size:.875rem}
 .scroll{overflow-x:auto;margin-top:.75rem}
-table{border-collapse:collapse;width:100%;font-size:.875rem;min-width:340px}
-th,td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid var(--line);
+table{border-collapse:collapse;width:100%;font-size:.875rem}
+th,td{text-align:left;padding:.4rem .5rem;border-bottom:1px solid var(--line);
 white-space:nowrap}
 th{color:var(--dim);font-weight:500}
 td.num{text-align:right;font-variant-numeric:tabular-nums}
+/* Payment badges are the widest cell ("PayPal, region untested") - let them
+   wrap instead of forcing the whole table into horizontal scroll. */
+th:last-child,td:last-child{white-space:normal;min-width:6.5em}
 /* Gold box around the best shop you can actually pay in. Cheaper gift-card shops
    can sort above it, so this marks the row that is genuinely actionable. */
 tr.top td{font-weight:650;background:var(--goldbg);
@@ -260,6 +267,11 @@ def esc(text):
     return (str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
 
+def nl_url(url):
+    """Nintendo of Europe serves every locale off the same slug - swap in Dutch."""
+    return url.replace("/en-gb/", "/nl-nl/") if url else url
+
+
 def write_dashboard(games, results):
     now = datetime.datetime.now().strftime("%A %d %B %Y, %H:%M")
     html = ["<div class='wrap'>", "<h1>Nintendo Switch eShop &ndash; Pat&rsquo;s Price Watch</h1>",
@@ -270,6 +282,10 @@ def write_dashboard(games, results):
         shops = results.get(game["name"], {})
         best = best_in(shops, "paypal")
         html.append("<div class='game'><h2>%s</h2>" % esc(game["name"]))
+        url = nl_url(game.get("url"))
+        if url:
+            html.append("<a class='info-link' href='%s' target='_blank' "
+                        "rel='noopener'>INFO</a>" % esc(url))
         if not best:
             html.append("<p class='note'>No price found this run.</p></div>")
             continue
