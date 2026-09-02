@@ -104,7 +104,10 @@ def days_left(iso):
 def notify(title, message):
     script = 'display notification %s with title %s sound name "Glass"' % (
         json.dumps(message), json.dumps(title))
-    subprocess.run(["osascript", "-e", script], check=False)
+    try:
+        subprocess.run(["osascript", "-e", script], check=False)
+    except FileNotFoundError:
+        pass
 
 
 def send_mail(subject, body):
@@ -115,8 +118,12 @@ def send_mail(subject, body):
         send msg
     end tell
     ''' % (json.dumps(subject), json.dumps(body), json.dumps(EMAIL_TO))
-    result = subprocess.run(["osascript", "-e", script],
-                            capture_output=True, text=True)
+    try:
+        result = subprocess.run(["osascript", "-e", script],
+                                capture_output=True, text=True)
+    except FileNotFoundError:
+        log("MAIL SKIPPED: osascript not available on this host")
+        return
     if result.returncode != 0:
         log("MAIL FAILED: %s" % result.stderr.strip())
     else:
