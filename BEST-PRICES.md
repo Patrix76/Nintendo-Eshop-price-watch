@@ -1,54 +1,54 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 02-09-2026 08:04_
+_Updated 03-09-2026 02:03_
 
 ## Donkey Kong Country Returns HD
 
-**🏷 45.72 EUR** in 🇳🇿 NZ - saves **14.27 EUR** vs NL (59.99 EUR)
+**🏷 45.27 EUR** in 🇳🇿 NZ - saves **14.72 EUR** vs NL (59.99 EUR)
 
-All-time low seen: 45.71 EUR (NZ, 2026-08-06)
+All-time low seen: 45.27 EUR (NZ, 2026-09-03)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 45.72 |
-| 🇦🇺 AU | 79.95 AUD | 49.26 |
-| 🇵🇱 PL | 249.80 PLN | 57.67 |
-| 🇬🇧 GB | 49.99 GBP | 58.36 |
-| 🇸🇪 SE | 659.00 SEK | 59.29 |
+| 🇳🇿 NZ | 89.95 NZD | 45.27 |
+| 🇦🇺 AU | 79.95 AUD | 49.35 |
+| 🇵🇱 PL | 249.80 PLN | 57.74 |
+| 🇬🇧 GB | 49.99 GBP | 58.22 |
+| 🇸🇪 SE | 659.00 SEK | 59.06 |
 
-_Gift-card only:  JP is 35.02 EUR (10.70 cheaper). No PayPal there - you would need a JP eShop card._
+_Gift-card only:  JP is 35.18 EUR (10.09 cheaper). No PayPal there - you would need a JP eShop card._
 
 ## Minecraft
 
-**🏷 20.31 EUR** in 🇳🇿 NZ - saves **9.68 EUR** vs NL (29.99 EUR)
+**🏷 20.11 EUR** in 🇳🇿 NZ - saves **9.88 EUR** vs NL (29.99 EUR)
 
-All-time low seen: 20.30 EUR (NZ, 2026-08-06)
+All-time low seen: 20.11 EUR (NZ, 2026-09-03)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 39.95 NZD | 20.31 |
-| 🇳🇴 NO | 249.00 NOK | 23.02 |
-| 🇵🇱 PL | 99.99 PLN | 23.09 |
-| 🇬🇧 GB | 19.99 GBP | 23.34 |
-| 🇦🇺 AU | 39.95 AUD | 24.61 |
+| 🇳🇿 NZ | 39.95 NZD | 20.11 |
+| 🇳🇴 NO | 249.00 NOK | 23.04 |
+| 🇵🇱 PL | 99.99 PLN | 23.11 |
+| 🇬🇧 GB | 19.99 GBP | 23.28 |
+| 🇦🇺 AU | 39.95 AUD | 24.66 |
 
-_🇨🇦 CA is cheaper at 18.63 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
+_🇨🇦 CA is cheaper at 18.60 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
-_Gift-card only: 🇦🇷 AR is 7.53 EUR (12.78 cheaper). No PayPal there - you would need a AR eShop card._
+_Gift-card only: 🇦🇷 AR is 7.54 EUR (12.57 cheaper). No PayPal there - you would need a AR eShop card._
 
 ## Animal Crossing: New Horizons
 
-**🏷 45.72 EUR** in 🇳🇿 NZ - saves **14.27 EUR** vs NL (59.99 EUR)
+**🏷 45.27 EUR** in 🇳🇿 NZ - saves **14.72 EUR** vs NL (59.99 EUR)
 
-All-time low seen: 45.72 EUR (NZ, 2026-09-02)
+All-time low seen: 45.27 EUR (NZ, 2026-09-03)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 45.72 |
-| 🇦🇺 AU | 79.95 AUD | 49.26 |
-| 🇵🇱 PL | 249.80 PLN | 57.67 |
-| 🇬🇧 GB | 49.99 GBP | 58.36 |
-| 🇸🇪 SE | 659.00 SEK | 59.29 |
+| 🇳🇿 NZ | 89.95 NZD | 45.27 |
+| 🇦🇺 AU | 79.95 AUD | 49.35 |
+| 🇵🇱 PL | 249.80 PLN | 57.74 |
+| 🇬🇧 GB | 49.99 GBP | 58.22 |
+| 🇸🇪 SE | 659.00 SEK | 59.06 |
 
 ---
 
