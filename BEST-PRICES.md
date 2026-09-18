@@ -1,58 +1,58 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 17-09-2026 02:03_
+_Updated 18-09-2026 02:03_
 
 ## Donkey Kong Country Returns HD
 
-**🏷 44.93 EUR** in 🇳🇿 NZ - saves **15.06 EUR** vs NL (59.99 EUR)
+**🏷 44.99 EUR** in 🇳🇿 NZ - saves **15.00 EUR** vs NL (59.99 EUR)
 
 All-time low seen: 44.88 EUR (NZ, 2026-09-16)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 44.93 |
-| 🇦🇺 AU | 79.95 AUD | 49.43 |
-| 🇵🇱 PL | 249.80 PLN | 57.46 |
-| 🇬🇧 GB | 49.99 GBP | 58.30 |
-| 🇸🇪 SE | 659.00 SEK | 58.38 |
+| 🇳🇿 NZ | 89.95 NZD | 44.99 |
+| 🇦🇺 AU | 79.95 AUD | 49.54 |
+| 🇵🇱 PL | 249.80 PLN | 57.32 |
+| 🇬🇧 GB | 49.99 GBP | 58.24 |
+| 🇸🇪 SE | 659.00 SEK | 58.47 |
 
-_🇺🇸 US is cheaper at 36.40 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
+_🇺🇸 US is cheaper at 36.57 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
-_Gift-card only:  JP is 36.34 EUR (8.59 cheaper). No PayPal there - you would need a JP eShop card._
+_Gift-card only:  JP is 36.36 EUR (8.63 cheaper). No PayPal there - you would need a JP eShop card._
 
 ## Minecraft
 
-**🏷 19.95 EUR** in 🇳🇿 NZ - saves **10.04 EUR** vs NL (29.99 EUR)
+**🏷 19.98 EUR** in 🇳🇿 NZ - saves **10.01 EUR** vs NL (29.99 EUR)
 
 All-time low seen: 19.93 EUR (NZ, 2026-09-16)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 39.95 NZD | 19.95 |
-| 🇵🇱 PL | 99.99 PLN | 23.00 |
-| 🇳🇴 NO | 249.00 NOK | 23.08 |
-| 🇬🇧 GB | 19.99 GBP | 23.31 |
+| 🇳🇿 NZ | 39.95 NZD | 19.98 |
+| 🇵🇱 PL | 99.99 PLN | 22.94 |
+| 🇳🇴 NO | 249.00 NOK | 23.00 |
+| 🇬🇧 GB | 19.99 GBP | 23.29 |
 | 🇨🇿 CZ | 599.00 CZK | 24.64 |
 
-_🇨🇦 CA is cheaper at 18.65 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
+_🇨🇦 CA is cheaper at 18.66 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
-_Gift-card only: 🇦🇷 AR is 7.60 EUR (12.35 cheaper). No PayPal there - you would need a AR eShop card._
+_Gift-card only: 🇦🇷 AR is 7.61 EUR (12.37 cheaper). No PayPal there - you would need a AR eShop card._
 
 ## Animal Crossing: New Horizons
 
-**🏷 44.93 EUR** in 🇳🇿 NZ - saves **15.06 EUR** vs NL (59.99 EUR)
+**🏷 44.99 EUR** in 🇳🇿 NZ - saves **15.00 EUR** vs NL (59.99 EUR)
 
 All-time low seen: 44.88 EUR (NZ, 2026-09-16)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 44.93 |
-| 🇦🇺 AU | 79.95 AUD | 49.43 |
-| 🇵🇱 PL | 249.80 PLN | 57.46 |
-| 🇬🇧 GB | 49.99 GBP | 58.30 |
-| 🇸🇪 SE | 659.00 SEK | 58.38 |
+| 🇳🇿 NZ | 89.95 NZD | 44.99 |
+| 🇦🇺 AU | 79.95 AUD | 49.54 |
+| 🇵🇱 PL | 249.80 PLN | 57.32 |
+| 🇬🇧 GB | 49.99 GBP | 58.24 |
+| 🇸🇪 SE | 659.00 SEK | 58.47 |
 
-_🇺🇸 US is cheaper at 36.40 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
+_🇺🇸 US is cheaper at 36.57 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
 ---
 
