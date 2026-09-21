@@ -1,6 +1,6 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 19-09-2026 08:16_
+_Updated 21-09-2026 02:16_
 
 ## Donkey Kong Country Returns HD
 
@@ -36,7 +36,7 @@ All-time low seen: 19.91 EUR (NZ, 2026-09-19)
 
 _🇨🇦 CA is cheaper at 18.68 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
-_Gift-card only: 🇦🇷 AR is 7.60 EUR (12.31 cheaper). No PayPal there - you would need a AR eShop card._
+_Gift-card only: 🇦🇷 AR is 7.61 EUR (12.30 cheaper). No PayPal there - you would need a AR eShop card._
 
 ## Animal Crossing: New Horizons
 
