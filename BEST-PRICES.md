@@ -1,6 +1,6 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 22-10-2026 02:15_
+_Updated 22-10-2026 08:15_
 
 ## Donkey Kong Country Returns HD
 
@@ -30,7 +30,7 @@ All-time low seen: 19.85 EUR (NZ, 2026-10-02)
 | 🇳🇴 NO | 249.00 NOK | 23.69 |
 | 🇬🇧 GB | 19.99 GBP | 23.85 |
 | 🇨🇿 CZ | 599.00 CZK | 24.69 |
-| 🇦🇺 AU | 39.95 AUD | 25.01 |
+| 🇸🇪 SE | 299.00 SEK | 26.94 |
 
 _🇨🇦 CA is cheaper at 19.01 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
