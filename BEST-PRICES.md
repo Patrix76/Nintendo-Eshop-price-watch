@@ -1,6 +1,6 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 23-10-2026 02:14_
+_Updated 23-10-2026 08:15_
 
 ## Donkey Kong Country Returns HD
 
