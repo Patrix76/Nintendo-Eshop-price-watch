@@ -1,54 +1,54 @@
 # Nintendo Switch eShop - Pat's Price Watch
 
-_Updated 16-11-2026 08:19_
+_Updated 19-11-2026 02:14_
 
 ## Donkey Kong Country Returns HD
 
-**🏷 45.02 EUR** in 🇳🇿 NZ - saves **14.97 EUR** vs NL (59.99 EUR)
+**🏷 45.09 EUR** in 🇳🇿 NZ - saves **14.90 EUR** vs NL (59.99 EUR)
 
 All-time low seen: 44.66 EUR (NZ, 2026-11-07)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 45.02 |
-| 🇦🇺 AU | 79.95 AUD | 49.09 |
-| 🇵🇱 PL | 249.80 PLN | 56.63 |
-| 🇸🇪 SE | 659.00 SEK | 59.33 |
-| 🇬🇧 GB | 49.99 GBP | 59.83 |
+| 🇳🇿 NZ | 89.95 NZD | 45.09 |
+| 🇦🇺 AU | 79.95 AUD | 49.07 |
+| 🇵🇱 PL | 249.80 PLN | 56.62 |
+| 🇸🇪 SE | 659.00 SEK | 59.14 |
+| 🇦🇹 AT | 59.99 EUR | 59.99 |
 
-_Gift-card only:  JP is 36.76 EUR (8.26 cheaper). No PayPal there - you would need a JP eShop card._
+_Gift-card only:  JP is 37.17 EUR (7.92 cheaper). No PayPal there - you would need a JP eShop card._
 
 ## Minecraft
 
-**🏷 28.82 EUR** in 🇦🇺 AU - saves **1.17 EUR** vs NL (29.99 EUR)
+**🏷 28.81 EUR** in 🇦🇺 AU - saves **1.18 EUR** vs NL (29.99 EUR)
 
 All-time low seen: 19.85 EUR (NZ, 2026-10-02)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇦🇺 AU | 46.95 AUD | 28.82 |
-| 🇵🇱 PL | 129.99 PLN | 29.47 |
-| 🇨🇿 CZ | 726.99 CZK | 29.77 |
-| 🇩🇰 DK | 224.00 DKK | 29.96 |
-| 🇦🇹 AT | 29.99 EUR | 29.99 |
+| 🇦🇺 AU | 46.95 AUD | 28.81 |
+| 🇵🇱 PL | 129.99 PLN | 29.46 |
+| 🇨🇿 CZ | 726.99 CZK | 29.81 |
+| 🇩🇰 DK | 224.00 DKK | 29.97 |
+| 🇸🇪 SE | 334.00 SEK | 29.97 |
 
-_🇨🇦 CA is cheaper at 26.65 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
+_🇨🇦 CA is cheaper at 26.76 EUR and takes PayPal too - but that means switching to the Americas region, which you have not tested yet._
 
-_Gift-card only: 🇧🇷 BR is 16.44 EUR (12.38 cheaper). No PayPal there - you would need a BR eShop card._
+_Gift-card only: 🇧🇷 BR is 16.12 EUR (12.69 cheaper). No PayPal there - you would need a BR eShop card._
 
 ## Animal Crossing: New Horizons
 
-**🏷 45.02 EUR** in 🇳🇿 NZ - saves **14.97 EUR** vs NL (59.99 EUR)
+**🏷 45.09 EUR** in 🇳🇿 NZ - saves **14.90 EUR** vs NL (59.99 EUR)
 
 All-time low seen: 44.66 EUR (NZ, 2026-11-07)
 
 | Shop | Local | EUR |
 |---|---|---|
-| 🇳🇿 NZ | 89.95 NZD | 45.02 |
-| 🇦🇺 AU | 79.95 AUD | 49.09 |
-| 🇵🇱 PL | 249.80 PLN | 56.63 |
-| 🇸🇪 SE | 659.00 SEK | 59.33 |
-| 🇬🇧 GB | 49.99 GBP | 59.83 |
+| 🇳🇿 NZ | 89.95 NZD | 45.09 |
+| 🇦🇺 AU | 79.95 AUD | 49.07 |
+| 🇵🇱 PL | 249.80 PLN | 56.62 |
+| 🇸🇪 SE | 659.00 SEK | 59.14 |
+| 🇦🇹 AT | 59.99 EUR | 59.99 |
 
 ---
 
